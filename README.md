@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oneslinky
-- Stuff for game jam
+
 
 <!---
 oneslinky/oneslinky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
